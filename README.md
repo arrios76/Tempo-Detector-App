@@ -14,7 +14,7 @@ It calculates the precise **Beats Per Minute (BPM)** by recording the time inter
 * **Responsive WPF UI:** Clean and simple interface for focused use.
 * **Instant Reset:** Dedicated button to clear tap history and stop the visual metronome instantly.
 
-## 🚀 Technology Stack
+## 🛠️ Technology Stack
 
 * **Language:** C#
 * **Framework:** .NET Framework (WPF - Windows Presentation Foundation)
