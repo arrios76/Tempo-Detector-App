@@ -1,0 +1,16 @@
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo Detector.csproj.AssemblyReference.cache
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\MainWindow.g.cs
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\App.g.cs
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo Detector_MarkupCompile.cache
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo Detector_MarkupCompile.lref
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\bin\Debug\Tempo Detector.exe.config
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\bin\Debug\Tempo Detector.exe
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\bin\Debug\Tempo Detector.pdb
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\MainWindow.baml
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo Detector.g.resources
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo_Detector.Properties.Resources.resources
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo Detector.csproj.GenerateResource.cache
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo Detector.csproj.CoreCompileInputs.cache
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo Detector.exe
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo Detector.pdb
+C:\Users\DSU Student\source\repos\Tempo Detector\Tempo Detector\obj\Debug\Tempo Detector.exe.config
