@@ -34,7 +34,6 @@ To build and run this project, you will need **Visual Studio** installed on a Wi
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/YourUsername/Tempo-Detector.git
-    cd Tempo-Detector
     ```
     *(Remember to update the username in the command above!)*
 
